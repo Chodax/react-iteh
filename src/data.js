@@ -133,3 +133,21 @@ export const placeInfo = [
         
     }
   ];
+
+  export const detailInfo = {
+    id: 1,
+    headerTitle: 'Imola Circuit',
+    headerSubTitle: 'Autodromo Internazionale Enzo e Dino Ferrari',
+    headerText:
+      `The Autodromo Internazionale Enzo e Dino Ferrari, better known as Imola, is a motor racing circuit in the town of Imola, in the Emilia-Romagna region of Italy, 40 kilometres (25 mi) east of Bologna. It is one of the few major international circuits to run in an anti-clockwise direction. The circuit is named after Ferrari's late founder, Enzo Ferrari, and his son, Alfredo "Dino" Ferrari, who died in 1956 at age 24. Before Enzo's death, it was called Autodromo Dino Ferrari. The circuit has an FIA Grade One licence.`,
+    title: 'Imola Circuit',
+    description:
+      `The Autodromo Internazionale Enzo e Dino Ferrari, better known as Imola, is a motor racing circuit in the town of Imola, in the Emilia-Romagna region of Italy, 40 kilometres (25 mi) east of Bologna. It is one of the few major international circuits to run in an anti-clockwise direction. The circuit is named after Ferrari's late founder, Enzo Ferrari, and his son, Alfredo "Dino" Ferrari, who died in 1956 at age 24. Before Enzo's death, it was called Autodromo Dino Ferrari. The circuit has an FIA Grade One licence.[2]
+
+      Imola was the venue for the San Marino Grand Prix between 1981 and 2006. During this period, two Grands Prix were held in Italy every year, with the Italian Grand Prix taking place at Monza, so the Imola race was named after the nearby state. Imola also hosted the 1980 Italian Grand Prix in place of Monza. When Formula One visits Imola, it is seen as the home circuit of Scuderia Ferrari, and masses of supporters come out to support the local team.
+      
+      The venue returned to the Formula One calendar during the 2020 season to help the sport fill calendar gaps caused by cancellations of other races due to the COVID-19 pandemic, with the race at the circuit being named the Emilia Romagna Grand Prix in honour of the region where the circuit is located. This also meant the venue hosted a World Championship race under a third different name having hosted the 1980 Italian Grand Prix and the San Marino Grand Prix from 1981 to 2006`,
+    img: '.././images/imola.jpg',
+    maps:
+      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2853.339630991969!2d11.712162215520328!3d44.34407377910367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132b4a7474d71167%3A0x81177e3551c217a6!2z0JDRg9GC0L7QvNC-0LHQuNC70YHQutCwINGB0YLQsNC30LAg0JXQvdGG0L4g0Lgg0JTQuNC90L4g0KTQtdGA0LDRgNC4!5e0!3m2!1ssr!2srs!4v1631487089071!5m2!1ssr!2srs'
+  };

@@ -13,21 +13,15 @@ function Navbar() {
                 <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul className="navbar-nav m-auto">
+                <ul className="nav justify-content-center">
                     <li className="nav-item">
                         <Link className="nav-link active text-white text-uppercase" aria-current="page" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="nav-link text-white text-uppercase" to="/news">News</Link>
                     </li>
-                    <li className="nav-item">
-                        <Link className="nav-link text-white text-uppercase" to="/contacts">Contact us</Link>
-                    </li>
                 </ul>
-                <form className="d-flex">
-                    <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-                    <button className="btn btn-outline-primary" type="submit">Search</button>
-                </form>
+                
             </div>
         </div>
     </nav>
