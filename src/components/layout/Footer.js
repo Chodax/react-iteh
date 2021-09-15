@@ -5,13 +5,13 @@ function Footer() {
     return (
         <FooterContainer className="main-footer">
             <div className="footer-middle">
-            <div className="container">
-                <div className="footer-bottom">
-                    <p>
-                        &copy;{new Date().getFullYear()} F1 circuits - All Rights Reserved
-                    </p>
+                <div className="container">
+                    <div className="footer-bottom">
+                        <p>
+                            &copy;{new Date().getFullYear()} F1 circuits - All Rights Reserved
+                        </p>
+                    </div>
                 </div>
-            </div>
             </div>
         </FooterContainer>
     )
